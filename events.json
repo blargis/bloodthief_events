@@ -5,15 +5,15 @@
         "id": "june_2025_speedrun",
         "details_index": 0,
         "tooltip_participant": "Participated in the June 2025 speedrun event",
-        "badge_url_participant": "https://blargis.github.io/bloodthief-events/badges/june_2025_participant.png",
+        "badge_url_participant": "https://blargis.github.io/bloodthief_events/badges/june_2025_participant.png",
         "tooltip_winner": "Top 10 in the June 2025 speedrun event",
-        "badge_url_winner": "https://blargis.github.io/bloodthief-events/badges/june_2025_top10.png"
+        "badge_url_winner": "https://blargis.github.io/bloodthief_events/badges/june_2025_top10.png"
       },
       {
         "id": "winter_2025",
         "details_index": 1,
         "tooltip_participant": "Participated in the Winter 2025 event",
-        "badge_url_participant": "https://blargis.github.io/bloodthief-events/badges/winter_2025_participant.png"
+        "badge_url_participant": "https://blargis.github.io/bloodthief_events/badges/winter_2025_participant.png"
       }
     ]
   }
