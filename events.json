@@ -14,6 +14,20 @@
         "details_index": 1,
         "tooltip_participant": "Participated in the Winter 2025 event",
         "badge_url_participant": "https://blargis.github.io/bloodthief_events/badges/winter_2025_participant.png"
+      },
+      {
+        "id": "vampiric",
+        "details_index": 2,
+        "tooltip_participant": "Vampiric",
+        "badge_url_participant": "https://blargis.github.io/bloodthief_events/badges/vampiric.png"
+      },
+      {
+        "id": "spring_2026_1",
+        "details_index": 3,
+        "tooltip_participant": "Spring 2026 LB Participant",
+        "badge_url_participant": "https://blargis.github.io/bloodthief_events/badges/spring_2026_lb_participants.png",
+        "tooltip_winner": "Vampiric",
+        "badge_url_winner": "https://blargis.github.io/bloodthief_events/badges/vampiric.png"
       }
     ]
   }
